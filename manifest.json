@@ -1,0 +1,14 @@
+{
+  "name": "Gestión",
+  "description": "Extensión nativa para contar archivos en el CDE de Trimble Connect.",
+  "vendor": "Selvia",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "extensions": [
+    {
+      "id": "gestion",
+      "title": "Gestión",
+      "html": "index.html"
+    }
+  ]
+}
